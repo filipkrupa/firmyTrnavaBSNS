@@ -1,0 +1,2 @@
+# firmyTrnavaBSNS
+Repo for firmyTrnavaBSNS
